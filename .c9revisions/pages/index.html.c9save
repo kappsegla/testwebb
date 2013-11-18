@@ -1,3 +1,0 @@
-{"ts":1378718106143,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
-{"contributors":[],"silentsave":false,"ts":1378718155078,"patch":[[{"diffs":[[1,"<!doctype html>\r\n<html lang=en>\r\n<head>\r\n<meta charset=utf-8>\r\n<title>blah</title>\r\n</head>\r\n<body>\r\n<p>I'm the content</p>\r\n</body>\r\n</html>\r\n"]],"start1":0,"start2":0,"length1":0,"length2":143}]],"length":143,"saved":false}
-{"ts":1378718189617,"patch":[[{"diffs":[[0,"tle>"],[-1,"blah"],[1,"The title"],[0,"</ti"]],"start1":66,"start2":66,"length1":12,"length2":17},{"diffs":[[0,">\r\n<"],[-1,"p>I'm t"],[1,"h1>The header</h1>\r\n<p>T"],[0,"he c"]],"start1":103,"start2":103,"length1":15,"length2":32}]],"length":165,"saved":false}
